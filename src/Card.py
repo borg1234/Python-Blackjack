@@ -5,4 +5,4 @@ class Card:
         self.color = color
     
     def __str__(self):
-        return self.color +':'+ self.value
+        return self.color +' '+ self.value
