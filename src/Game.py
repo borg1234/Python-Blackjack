@@ -1,6 +1,7 @@
 
 from Deck import Deck
 from Player import Player
+hej = 0
 
 class Game:
     def __init__(self):
